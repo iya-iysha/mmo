@@ -1,4 +1,7 @@
 # mmo
 Репозиторий для работ по курсу ММО
-
-<a href="https://github.com/iya-iysha/mmo/blob/main/rk1%20mmo.ipynb">РК1</a>
+<ul>
+  <li>
+    <a href="https://github.com/iya-iysha/mmo/blob/main/rk1%20mmo.ipynb">РК1</a>
+  </li>
+</ul>
